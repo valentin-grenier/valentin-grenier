@@ -11,10 +11,10 @@
 
 ### Contact
 
-- Reach me [on LinkedIn](https://www.linkedin.com/in/valentin-grenier/)
-- Send me a DM [on Twitter](https://twitter.com/valentingrn)
-- Check [my portfolio](https://valentingrenier.fr)
-- Visit [my freelance website](https://studio-val.fr)
+- Reach me [on LinkedIn](https://www.linkedin.com/in/valentin-grenier/).
+- Send me a DM [on Twitter](https://twitter.com/valentingrn).
+- Check [my portfolio](https://valentingrenier.fr).
+- Visit [my freelance website](https://studio-val.fr).
 
 <!--
 **valentin-grenier/valentin-grenier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
