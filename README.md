@@ -1,6 +1,6 @@
 ### Hi, bonjour !
 
-I'm Valentin, a french web developer from Toulouse. 
+🥖 I'm Valentin, a french web developer from Toulouse. 
 
 ### Skills
 
