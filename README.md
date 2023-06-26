@@ -5,7 +5,7 @@ I'm Valentin, a french web developer from Toulouse.
 ### Skills
 
 - 💻 Front-end : React, JavaScript, TypeScript
-- 💅 Libraries : Tailwind CSS, Boostrap, SASS, Styled Components
+- 💅 Libraries : Redux, Tailwind CSS, Boostrap, SASS, Styled Components
 - 💽 Back-end : PHP, Laravel, REST API, MySQL
 - 💼 UX/UI, WordPress, SEO
 - 🌱 Currently learning Node.js, Express, MongoDB
