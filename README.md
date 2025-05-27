@@ -4,10 +4,10 @@ I'm Valentin, a french web developer from Toulouse.
 
 ### Skills
 
-- 💻 Front-end: React, Vue.js, Gutenberg, JavaScript, TypeScript
+- 💻 Front-end: FSE/Gutenberg, React, JavaScript, TypeScript
 - 💅 Libraries: Redux, Tailwind CSS, Boostrap, SASS, Styled Components
-- 💽 Back-end: PHP, Laravel, MySQL
-- 💼 UX/UI, WordPress, SEO
+- 💽 Back-end: PHP, POO, MySQL
+- 💼 UX/UI, WordPress, Technical SEO
 - 🌱 Learning: Vue.js
 
 ### Contact
