@@ -4,7 +4,7 @@ I'm Valentin, a french web developer from Toulouse.
 
 ### Skills
 
-- WordPress Development: Full Site Editing (FSE) & Gutenberg, Block & Classic Theme, Custom Plugin
+- 👨🏻‍💻 WordPress Development: Full Site Editing (FSE) & Gutenberg, Block & Classic Theme, Custom Plugin
 - 💻 Front-end: React, JavaScript, TypeScript, SASS
 - 💅 Libraries: Redux, Tailwind CSS, Boostrap, Styled Components
 - 💽 Back-end: PHP, POO, MySQL
