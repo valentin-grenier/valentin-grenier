@@ -1,15 +1,15 @@
 ### Hi, bonjour ! 🥖🇫🇷
 
-I'm Valentin, a french web developer from Toulouse. 
+I'm Valentin, a french web developer coding remotly from Toulouse. 
 
 ### Skills
 
 - 👨🏻‍💻 WordPress Development: Full Site Editing (FSE) & Gutenberg, Block & Classic Theme, Custom Plugin
-- 💻 Front-end: React, JavaScript, TypeScript, SASS
-- 💅 Libraries: Redux, Tailwind CSS, Boostrap, Styled Components
+- 💻 Front-end: React, NextJS, JavaScript, TypeScript, Sass
+- 💅 Libraries: Redux, Tailwind CSS, Boostrap, Styled Components, @wordpress/scripts
 - 💽 Back-end: PHP, OOP, MySQL
 - 💼 UX/UI, WordPress, Technical SEO
-- 🌱 Learning: Vue.js
+- 🌱 Learning: Vue.js, cybersecurity basics
 
 ### Contact
 
